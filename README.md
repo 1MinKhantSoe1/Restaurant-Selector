@@ -2,7 +2,7 @@
 
 This program is "Yes" or "No" question for a group of friend come from out of town and make sure what kind of local restaurant they want to go.
     
-    The following restaurant will be show as a output upon on user answer:
+    The following restaurant will be show as an output upon on user answer:
 
     Joes’ Gourmet Burgers – Vegetarian: No, Vegan: No, Gluten-Free: No
     Main Street Pizza – Vegetarian: Yes, Vegan: No, Gluten-Free: Yes
